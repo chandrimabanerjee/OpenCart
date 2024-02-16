@@ -1,0 +1,68 @@
+16:46:37.370 [main] ERROR testCases.TC_02_LoginTest - Test failed
+16:49:23.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng.xml
+
+16:49:36.312 [main] INFO  testCases.TC_02_LoginTest - ---start TC02---
+16:49:36.318 [main] INFO  testCases.TC_02_LoginTest - Click on my Account
+16:49:36.555 [main] INFO  testCases.TC_02_LoginTest - Click on login
+16:49:37.110 [main] INFO  testCases.TC_02_LoginTest - fill the details-
+16:49:37.492 [main] ERROR testCases.TC_02_LoginTest - Test failed
+16:53:11.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng.xml
+
+16:53:23.702 [main] INFO  testCases.TC_02_LoginTest - ---start TC02---
+16:53:23.707 [main] INFO  testCases.TC_02_LoginTest - Click on my Account
+16:53:23.947 [main] INFO  testCases.TC_02_LoginTest - Click on login
+16:53:24.461 [main] INFO  testCases.TC_02_LoginTest - fill the details-
+16:53:24.798 [main] ERROR testCases.TC_02_LoginTest - Test failed
+16:56:31.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng.xml
+
+16:56:43.702 [main] INFO  testCases.TC_02_LoginTest - ---start TC02---
+16:56:43.707 [main] INFO  testCases.TC_02_LoginTest - Click on my Account
+16:56:43.906 [main] INFO  testCases.TC_02_LoginTest - Click on login
+16:56:44.432 [main] INFO  testCases.TC_02_LoginTest - fill the details-
+16:56:51.111 [main] INFO  testCases.TC_02_LoginTest - click on login button
+16:56:56.117 [main] INFO  testCases.TC_02_LoginTest - Validate the details
+16:56:56.217 [main] INFO  testCases.TC_02_LoginTest - Test Completed
+23:04:40.816 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\login.xml
+
+23:06:27.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\login.xml
+
+23:06:49.947 [main] INFO  testCases.TC_03_LoginDataDrivenTest - ---start TC03---
+23:06:49.960 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on my Account
+23:06:50.291 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on login
+23:06:51.320 [main] INFO  testCases.TC_03_LoginDataDrivenTest - fill the details-
+23:06:53.512 [main] INFO  testCases.TC_03_LoginDataDrivenTest - click on login button
+23:06:53.512 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Validate the details
+23:06:54.836 [main] INFO  testCases.TC_03_LoginDataDrivenTest - **** Finished TC_003_LoginDDT *****
+23:06:54.858 [main] INFO  testCases.TC_03_LoginDataDrivenTest - ---start TC03---
+23:06:54.859 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on my Account
+23:06:54.980 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on login
+23:06:56.460 [main] INFO  testCases.TC_03_LoginDataDrivenTest - fill the details-
+23:06:58.132 [main] INFO  testCases.TC_03_LoginDataDrivenTest - click on login button
+23:06:58.133 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Validate the details
+23:07:18.186 [main] INFO  testCases.TC_03_LoginDataDrivenTest - **** Finished TC_003_LoginDDT *****
+23:07:18.190 [main] INFO  testCases.TC_03_LoginDataDrivenTest - ---start TC03---
+23:07:18.191 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on my Account
+23:07:18.323 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on login
+23:07:19.120 [main] INFO  testCases.TC_03_LoginDataDrivenTest - fill the details-
+23:07:21.423 [main] INFO  testCases.TC_03_LoginDataDrivenTest - click on login button
+23:07:21.424 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Validate the details
+23:07:41.469 [main] INFO  testCases.TC_03_LoginDataDrivenTest - **** Finished TC_003_LoginDDT *****
+23:07:41.474 [main] INFO  testCases.TC_03_LoginDataDrivenTest - ---start TC03---
+23:07:41.474 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on my Account
+23:07:41.651 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on login
+23:07:44.836 [main] INFO  testCases.TC_03_LoginDataDrivenTest - fill the details-
+23:07:46.377 [main] INFO  testCases.TC_03_LoginDataDrivenTest - click on login button
+23:07:46.378 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Validate the details
+23:08:06.393 [main] INFO  testCases.TC_03_LoginDataDrivenTest - **** Finished TC_003_LoginDDT *****
+23:08:06.397 [main] INFO  testCases.TC_03_LoginDataDrivenTest - ---start TC03---
+23:08:06.398 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on my Account
+23:08:06.508 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Click on login
+23:08:07.477 [main] INFO  testCases.TC_03_LoginDataDrivenTest - fill the details-
+23:08:08.856 [main] INFO  testCases.TC_03_LoginDataDrivenTest - click on login button
+23:08:08.856 [main] INFO  testCases.TC_03_LoginDataDrivenTest - Validate the details
+23:08:28.930 [main] INFO  testCases.TC_03_LoginDataDrivenTest - **** Finished TC_003_LoginDDT *****

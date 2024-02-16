@@ -1,0 +1,57 @@
+16:27:23.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.940 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+16:27:23.949 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+16:27:23.951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:27:23.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.954 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.954 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.955 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.955 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.959 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.960 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.961 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:27:23.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:27:23.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\AppData\Local\Temp\testng-eclipse--1628084801\testng-customsuite.xml
+
+16:27:23.990 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+16:27:24.131 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@659eef7: 58 ms
+16:27:24.147 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5049d8b2: 16 ms
+16:27:24.166 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3185fa6b: 18 ms
+16:27:24.173 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@274872f8: 7 ms
+16:27:24.182 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a39fe6a: 9 ms
+16:27:24.182 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@410ae9a3: 0 ms
+16:27:41.109 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng6.xml
+
+16:30:30.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng6.xml
+
+16:33:16.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng6.xml
+
+16:43:17.716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng6.xml
+
+16:45:49.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng6.xml
+
+16:48:19.784 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng6.xml
+
+16:50:45.119 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chandrima.banerjee\eclipse-workspace\OpenCartProject\testng6.xml
+
